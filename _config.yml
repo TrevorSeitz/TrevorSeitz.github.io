@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Scraping the bottom of the page...
 header-img: img/home-bg.png
 email: trevinla@gmail.com
 copyright_name: TrevorSeitz
 description: > # this means to ignore newlines until "baseurl:"
-  
+  How I found the CSS tags and conquered the CLI 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  TrevorSeitz
