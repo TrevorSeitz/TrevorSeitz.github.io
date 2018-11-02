@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Just a short story about State and Props..."
-date:       2018-11-02 16:49:07 +0000
+date:       2018-11-02 12:49:07 -0400
 permalink:  just_a_short_story_about_state_and_props
 ---
 
